@@ -1,0 +1,11 @@
+<relay53>ON</relay53>
+<relay55>OFF</relay55>
+<relay57>ON</relay55>
+<relay3>ON</relay3>
+<relay4>ON</relay4>
+<relay5>ON</relay5>
+<relay6>ON</relay6>
+<relay7>ON</relay7>
+<humidity>70</humidity>
+<temp>31</temp>
+ 
