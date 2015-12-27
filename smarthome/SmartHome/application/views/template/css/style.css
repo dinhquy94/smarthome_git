@@ -1,0 +1,154 @@
+
+.home-header{
+	height: 60px;
+	width: 100%; 
+	padding: 0px !important;
+	margin: 0px !important;
+	
+}
+.line-bellow{
+	border-bottom: 1px solid #BBBBBB !important;
+}
+.home-style{
+	background: #3baeda;
+	margin-top: 43px;
+	margin-bottom: 50px;
+}
+.home-style-body{
+	background: #3baeda; 
+	margin-bottom: 50px;
+}
+ 
+.col-image{
+	bottom: 150px;
+    height: 170px;
+    width: 200px; 
+ 
+    position: absolute;
+    width: 2800px;
+}
+.row-size{
+	padding: 0px !important;
+	margin: 0px !important;
+	height: 300px;
+	width: 2800px;
+	
+}
+.fill-footer{
+	background: #83b817;
+	flex: 1 1 0;
+	position: relative;
+	-moz-box-flex: 1;
+	margin-top: -60px;
+	height: 100%;
+	width: 100%;
+	z-index: 0;
+}
+.home-icon-view{
+	bottom: 80px;
+	bottom: 0;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: -400px;;
+    z-index: 1;
+    height: 180px;
+}
+.icon-custom{
+	font-size: 60px !important; 
+	
+}
+
+
+
+
+
+
+
+
+.header-detail-thi{
+	margin-top: 100px;
+	text-align: center;
+}
+.small-tabs{
+	max-height: 30px; 
+	line-height: 0px;
+}
+.label-detail-thi{ 
+	position: absolute;    
+	top: 75%;    
+	left: 50%;    
+	margin-right: -50%;    
+	transform: translate(-50%, -50%)
+}
+.line-label-detail{
+	text-align: center;
+	color: white;
+	font-size: 13px;	
+	font-weight: bold;
+}
+.icon-custom-b{
+	color: white;
+	font-size: 20px;
+}
+.sun-style{
+	text-align: center;
+}
+.line-below{
+	color: #888888;
+	font-size: 13px;
+	text-align: center;
+}
+.success-login{
+	background: LightSeaGreen;
+	color: white;
+}
+.fail-login{
+	background: SandyBrown;
+}
+.title-weather{
+	color: white !important; 
+	font-weight: 600; 
+	font-size: 14px;
+}
+.value-weather{
+	color: white; 
+	font-weight: 500; 
+	font-size: 14px; 
+	margin-left: 10px;
+}
+.list-icon{
+	float: left; 
+	width: 90px; 
+	font-size: 55px; 
+	margin-top: 0px; 
+	font-weight: bold; 
+	text-align: center;
+}
+.font-custom{
+	color: white !important;
+}
+.row-custom{
+	padding: 0;
+	color: white !important;
+}
+.a-custom{
+	background: rgba(54, 25, 25, .1); 
+	margin: 0px; border: 0; 
+	padding-top: 5px; 
+	min-height: 0px;
+	padding-left: 70px !important;
+	 
+}
+.list-weather{
+	border-color: #8e979a; 
+	background: #009966;      
+	opacity: 0.7; 
+	padding: 0px; 
+	color: white !important;  
+	height:30px; 
+	min-height:50px; 
+	padding-top: 0px; 
+	padding-bottom: 0px;
+}
